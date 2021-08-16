@@ -1,0 +1,14 @@
+body {
+    scroll-behavior: smooth;
+    background: url(../img/tool.png);
+    background-repeat: repeat;
+}
+main {
+    background: rgba(120, 144, 230, 0.7);
+}
+.header {
+    color: #1c56c1;
+}
+#linked_email, #more_email_users, #errors {
+    display: none;
+}
